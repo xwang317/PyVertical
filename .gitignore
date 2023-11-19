@@ -162,3 +162,11 @@ data/synthea/*
 
 examples/experimental/*
 !examples/experimental/*.ipynb
+examples/VerticalDataset/raw/t10k-images-idx3-ubyte
+examples/VerticalDataset/raw/t10k-images-idx3-ubyte.gz
+examples/VerticalDataset/raw/t10k-labels-idx1-ubyte
+examples/VerticalDataset/raw/t10k-labels-idx1-ubyte.gz
+examples/VerticalDataset/raw/train-images-idx3-ubyte
+examples/VerticalDataset/raw/train-images-idx3-ubyte.gz
+examples/VerticalDataset/raw/train-labels-idx1-ubyte
+examples/VerticalDataset/raw/train-labels-idx1-ubyte.gz
